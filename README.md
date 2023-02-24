@@ -9,7 +9,7 @@ Primeiramente é importante enternder o que são tags html. Elas são a menor pa
 Elas seguem a estrutura: 
 `<tagAbertura> Conteúdo </tagFechamento>`
 
-Na <tagAbertura> estará presente a principal função da tag, por exemplo a tag "<p>":
+Na `<tagAbertura>` estará presente a principal função da tag, por exemplo a tag `<p>`:
 
 `<p>Parágrafo</p>`
 
