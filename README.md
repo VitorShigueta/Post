@@ -14,3 +14,8 @@ Na `<tagAbertura>` estará presente a principal função da tag, por exemplo a t
 `<p>Parágrafo</p>`
 
 Ela faz com que o texto dentro dela("Parágrafo") se torne de fato um parágrafo.
+
+![Utilizando tag p](./assets/paragrafo-html.PNG)
+
+![Utilizando tag p](./assets/resultado-tag-p.PNG)
+
